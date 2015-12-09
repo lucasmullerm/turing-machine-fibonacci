@@ -1,0 +1,143 @@
+Beginning computation
+
+State:( q0) 1010BBBBBBB
+            ^
+State:( q0) 1010BBBBBBB
+             ^
+State:( q0) 1010BBBBBBB
+              ^
+State:( q0) 1010BBBBBBB
+               ^
+State:( q0) 1010BBBBBBB
+                ^
+State:( q1) 10101BBBBBB
+               ^
+State:( q1) 10101BBBBBB
+              ^
+State:( q2) 10101BBBBBB
+             ^
+State:( q2) 10101BBBBBB
+            ^
+State:( q3) 10101BBBBBB
+             ^
+State:( q4) 1X101BBBBBB
+              ^
+State:( q4) 1X101BBBBBB
+               ^
+State:( q4) 1X101BBBBBB
+                ^
+State:( q4) 1X101BBBBBB
+                 ^
+State:( q5) 1X1010BBBBB
+                ^
+State:( q5) 1X1010BBBBB
+               ^
+State:( q5) 1X1010BBBBB
+              ^
+State:( q5) 1X1010BBBBB
+             ^
+State:( q6) 101010BBBBB
+              ^
+State:( q7) 101010BBBBB
+               ^
+State:( q8) 101X10BBBBB
+                ^
+State:( q8) 101X10BBBBB
+                 ^
+State:( q8) 101X10BBBBB
+                  ^
+State:( q9) 101X100BBBB
+                 ^
+State:( q9) 101X100BBBB
+                ^
+State:( q9) 101X100BBBB
+               ^
+State:(q10) 1010100BBBB
+                ^
+State:( q0) 1010100BBBB
+                 ^
+State:( q0) 1010100BBBB
+                  ^
+State:( q0) 1010100BBBB
+                   ^
+State:( q1) 10101001BBB
+                  ^
+State:( q1) 10101001BBB
+                 ^
+State:( q1) 10101001BBB
+                ^
+State:( q2) 10101001BBB
+               ^
+State:( q2) 10101001BBB
+              ^
+State:( q3) 10101001BBB
+               ^
+State:( q4) 101X1001BBB
+                ^
+State:( q4) 101X1001BBB
+                 ^
+State:( q4) 101X1001BBB
+                  ^
+State:( q4) 101X1001BBB
+                   ^
+State:( q4) 101X1001BBB
+                    ^
+State:( q5) 101X10010BB
+                   ^
+State:( q5) 101X10010BB
+                  ^
+State:( q5) 101X10010BB
+                 ^
+State:( q5) 101X10010BB
+                ^
+State:( q5) 101X10010BB
+               ^
+State:( q6) 101010010BB
+                ^
+State:( q7) 101010010BB
+                 ^
+State:( q8) 10101X010BB
+                  ^
+State:( q8) 10101X010BB
+                   ^
+State:( q8) 10101X010BB
+                    ^
+State:( q8) 10101X010BB
+                     ^
+State:( q9) 10101X0100B
+                    ^
+State:( q9) 10101X0100B
+                   ^
+State:( q9) 10101X0100B
+                  ^
+State:( q9) 10101X0100B
+                 ^
+State:(q10) 1010100100B
+                  ^
+State:( q8) 101010X100B
+                   ^
+State:( q8) 101010X100B
+                    ^
+State:( q8) 101010X100B
+                     ^
+State:( q8) 101010X100B
+                      ^
+State:( q9) 101010X1000
+                     ^
+State:( q9) 101010X1000
+                    ^
+State:( q9) 101010X1000
+                   ^
+State:( q9) 101010X1000
+                  ^
+State:(q10) 10101001000
+                   ^
+State:( q0) 10101001000
+                    ^
+State:( q0) 10101001000
+                     ^
+State:( q0) 10101001000
+                      ^
+
+End of computation
+--------------------------------------
